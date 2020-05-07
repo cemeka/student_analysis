@@ -1,6 +1,9 @@
+"""
+Script to perform statistical analysis on perceived fairness of versioned exams
+"""
 
-#Also, look up multi-level index in pandas. what is a dataframe with multilevel index: print tag_df
-#TODO: Need to do appropriate hypothesis testing for various data we have generated. 
+
+
 #TODO: Revisit section HARD. tag_df, zilles_tags_df and chinny_tags_df can be simplied with a function. 
 
 
